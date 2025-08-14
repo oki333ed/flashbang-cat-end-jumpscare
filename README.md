@@ -1,2 +1,2 @@
-# flashbang-cat-end-jumpscare
+# Flashbang Cat Jumpscare
 Flashbang Cat End Jumpscare
